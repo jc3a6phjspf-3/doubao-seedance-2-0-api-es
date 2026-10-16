@@ -104,6 +104,17 @@ Runnable versions: [`examples/`](examples). The task lifecycle is `pending → p
 
 Use the [Get an API key](https://go.apimart.ai/k-260bb5) link — $1 minimum top-up, no plan required.
 
+<!-- related-repos:auto -->
+## Related repositories
+
+- **Same model, this language** — the other half of this pair: [doubao-seedance-2-0-prompts-es](https://github.com/jc3a6phjspf-3/doubao-seedance-2-0-prompts-es)
+- **Same model, other languages** — 9 more language builds: 中文 [doubao-seedance-2-0-api-cn](https://github.com/t7phf53f5hs/doubao-seedance-2-0-api-cn) · Deutsch [doubao-seedance-2-0-api-de](https://github.com/rnd5d7u4/doubao-seedance-2-0-api-de) · Français [doubao-seedance-2-0-api-fr](https://github.com/e3udvo/doubao-seedance-2-0-api-fr) · Relay/gateway [doubao-seedance-2-0-api-gateway](https://github.com/emw2cy1k/doubao-seedance-2-0-api-gateway) · Bahasa [doubao-seedance-2-0-api-id](https://github.com/scsa67y7x97nk/doubao-seedance-2-0-api-id) · 日本語 [doubao-seedance-2-0-api-ja](https://github.com/p5s5nph3/doubao-seedance-2-0-api-ja) · 한국어 [doubao-seedance-2-0-api-ko](https://github.com/uu8bu/doubao-seedance-2-0-api-ko) · Português [doubao-seedance-2-0-api-pt](https://github.com/b1l5hu8oqdj/doubao-seedance-2-0-api-pt) · Русский [doubao-seedance-2-0-api-ru](https://github.com/z6gquntrrfq/doubao-seedance-2-0-api-ru)
+- **More models in this language** — [midjourney-api-es](https://github.com/xbuu0/midjourney-api-es) · [gemini-2-5-flash-image-preview-api-es](https://github.com/ekw3w/gemini-2-5-flash-image-preview-api-es) · [nano-banana-api-es](https://github.com/gbm5mfl1/nano-banana-api-es) · [gemini-3-1-flash-image-preview-api-es](https://github.com/x3kcczm8l29xn/gemini-3-1-flash-image-preview-api-es) · [nano-banana-2-api-es](https://github.com/d63hy9t-4pp/nano-banana-2-api-es) · [gemini-3-pro-image-preview-api-es](https://github.com/uv9d8/gemini-3-pro-image-preview-api-es)
+- **Topic hubs** — every build of this model, all languages: [doubao-seedance-2-0](https://github.com/topics/doubao-seedance-2-0) · [doubao-seedance-2-0-api](https://github.com/topics/doubao-seedance-2-0-api)
+
+This repository is one build in a cross-linked set of API guides for the same model family; each language build links back to the others.
+<!-- /related-repos:auto -->
+
 ## Attributed links (how this repository is measured)
 
 | Purpose | Attributed link | Target |
